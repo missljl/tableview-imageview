@@ -1,1 +1,3 @@
 # tableview-imageview
+
+tableview和imageview的抽屉联动效果，vc是tableviewVC,这是我的另一个项目中用到的轮子，现在思考一下怎么在tableviewVC上面添加一个固定视图比如view。当然实际开发中很少有项目用tableviewVC当做视图控制器。
